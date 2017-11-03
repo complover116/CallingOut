@@ -3,7 +3,7 @@ osu file format v14
 [General]
 AudioFilename: audio.mp3
 AudioLeadIn: 0
-PreviewTime: -1
+PreviewTime: 64114
 Countdown: 1
 SampleSet: Normal
 StackLeniency: 0.7
@@ -12,7 +12,7 @@ LetterboxInBreaks: 0
 WidescreenStoryboard: 0
 
 [Editor]
-Bookmarks: 21942,54856
+Bookmarks: 21942,54856,87771
 DistanceSpacing: 1.5
 BeatDivisor: 4
 GridSize: 4
@@ -42,6 +42,7 @@ SliderTickRate:1
 //Background and Video events
 //Break Periods
 2,46828,54286
+2,58999,88229
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
@@ -53,6 +54,7 @@ SliderTickRate:1
 0,-166.666666666667,4,1,0,100,0,0
 54856,-133.333333333333,4,1,0,100,0,0
 57942,-100,4,1,0,100,0,0
+87771,-76.9230769230769,4,1,0,100,0,0
 
 
 [HitObjects]
@@ -100,3 +102,14 @@ SliderTickRate:1
 344,136,57942,2,0,B|392:136|392:136|432:164,1,90
 296,312,58285,2,0,B|272:352|272:352|220:356,1,90
 140,168,58628,2,0,B|124:124|124:124|140:80,1,90
+136,24,88799,6,0,P|80:40|60:96,1,116.999994644165
+156,236,89142,1,0,0:0:0:0:
+332,228,89314,1,0,0:0:0:0:
+332,228,89399,1,0,0:0:0:0:
+332,228,89485,1,0,0:0:0:0:
+176,48,89656,2,0,P|260:24|268:36,1,116.999994644165
+104,252,89999,1,0,0:0:0:0:
+352,60,90171,1,0,0:0:0:0:
+308,308,90342,1,0,0:0:0:0:
+116,80,90514,1,0,0:0:0:0:
+384,172,90685,1,0,0:0:0:0:
